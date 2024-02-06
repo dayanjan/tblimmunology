@@ -29,6 +29,7 @@ Please refer to `requirements.txt` for a list of necessary libraries and depende
   source venv/bin/activate
   ```
 4. Install required packages:
+   ```pip install -r requrements.txt```
 
 
 ### Usage
