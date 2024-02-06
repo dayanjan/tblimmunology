@@ -1,5 +1,8 @@
 # AI-Guided Pharmacy Education Tool
 
+#Authors
+Micah Buller and Dayanjan S. Wijesinghe
+
 ## About
 This repository hosts the AI-Guided Pharmacy Education Tool, designed to facilitate team-based learning activities in pharmacy education. The tool leverages Socratic AI mentorship to engage students in interactive patient case analysis and dialogue-driven guidance.
 
