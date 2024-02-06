@@ -1,6 +1,6 @@
 # AI-Guided Pharmacy Education Tool
 
-#Authors
+# Authors
 Micah Buller and Dayanjan S. Wijesinghe
 
 ## About
