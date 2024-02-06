@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For any queries or feedback, please reach out to shanaka@dayanjan.com.
 
-# In addition to the terms of the MIT License under which this software is released, we kindly request that any use of this software in academic, research, or commercial applications includes proper citation of the original authors as listed in this repository.
+### In addition to the terms of the MIT License under which this software is released, we kindly request that any use of this software in academic, research, or commercial applications includes proper citation of the original authors as listed in this repository.
