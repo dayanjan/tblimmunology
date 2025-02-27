@@ -86,7 +86,7 @@ The application is built with:
 Contributions to enhance the tool are welcome. Please follow the standard GitHub pull request process to propose changes.
 
 ## License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Acknowledgements
 * This project was funded in part through a grant from the VentureWell Foundation titled "Creating a Program to Train Healthcare Professional Students in Digital Health Application Development and Deployment"
